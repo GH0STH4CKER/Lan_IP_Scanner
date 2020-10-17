@@ -20,7 +20,7 @@ print_banner()
 
 input("Press \'Enter\' To Scan > ")
 
-def anim() :                   # Scanning animation
+def anim() :                # Scanning animation
     os.system('cls')
     print_banner()
     print("\nScanning.../ ")
