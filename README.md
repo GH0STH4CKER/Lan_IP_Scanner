@@ -4,4 +4,6 @@
 
 # This program works only on Windows Operating System 
 
-# Python 3.8
+# Use exe file if you dont have python 
+
+# Python Version 3.8
