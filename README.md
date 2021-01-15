@@ -8,4 +8,6 @@
 
 # Python Version 3.8
 <br>
-<h2> Contact :  https://m.me/dimuth92 </h2>
+<h2> Contact : </h2>
+<a href="https://m.me/dimuth92">Messenger</a>
+<a href="https://t.me/Dimuth92">Telegram</a>
