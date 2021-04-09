@@ -17,4 +17,4 @@
   </tr>
 </table>
 
- [Github release stats](http://www.somsubhra.com/github-release-stats/?username=GH0STH4CKER&repository=Lan_IP_Scanner-release-stats
+[![Github All Releases](https://img.shields.io/github/downloads/GH0STH4CKER/Lan_IP_Scanner/total.svg)]()
