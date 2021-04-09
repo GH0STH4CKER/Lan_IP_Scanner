@@ -16,3 +16,5 @@
     <td><a href="https://t.me/Dimuth92"><img src="https://i.ibb.co/DGF0tb8/telegram.png"><br>Telegram</a></td>
   </tr>
 </table>
+
+ [Github release stats](http://www.somsubhra.com/github-release-stats/?username=GH0STH4CKER&repository=Lan_IP_Scanner-release-stats
